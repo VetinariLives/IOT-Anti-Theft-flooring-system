@@ -28,7 +28,7 @@ Project for CSC 4980 - Security in IOT (Fall '23). This project uses a Raspberry
 
 ## Built With
 
-* [Smptlib](https://docs.python.org/3/library/smtplib.html) - SMTP protocol client for sending email alerts
+* [Smtplib](https://docs.python.org/3/library/smtplib.html) - SMTP protocol client for sending email alerts
 * [Picamera2](https://github.com/raspberrypi/picamera2) - For camera module Interfacing 
 * [Adafruit CircuitPython ADS1115](https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15) - For interfacing with ADS chip
 
